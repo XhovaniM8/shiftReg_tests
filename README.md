@@ -1,4 +1,6 @@
 # n-bitshiftReg_verilog
-A verilog shift register with test bench that was made as a pre-cursor for a future SPI Master / Slave project at Microchip
+A basic n-bit shift register with test bench
+
+implemented using Vivado
 
 Source: https://www.youtube.com/watch?v=Gr_OVOPjR60
