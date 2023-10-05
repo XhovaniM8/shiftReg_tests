@@ -69,6 +69,12 @@ To use this project as a testbench for shift registers, follow these steps:
 
 ---
 
+## Updates
+
+10/5/2023 - Nothing planned as of now
+
+---
+
 ## License
 
 [Specify the license information for your project here.]
