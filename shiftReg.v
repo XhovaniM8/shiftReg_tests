@@ -7,7 +7,7 @@
 // Module Name: shiftReg
 // Project Name: shiftReg_tests
 // Target Devices: Arty S7-25
-// Description: Testing out shift registers in verilog for implementation of Lenovo
+// Description: Testing out shift registers in verilog for implementation of
 //              SPI Write Cycles
 //
 // Revision:
