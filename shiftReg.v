@@ -1,7 +1,6 @@
 `timescale 1ns / 1ps
 
 //////////////////////////////////////////////////////////////////////////////////
-// Company: Microchip Technology Inc. 
 // Engineer: Xhovani Mali
 // 
 // Create Date: 06/14/2022 01:23:29 PM
